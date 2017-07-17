@@ -981,12 +981,20 @@ h6,
 #msg-box8-8 .mbr-section-title {
   font-size: 36px;
 }
+#msg-box5-19 H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-19 P {
+  text-align: left;
+}
 #msg-box5-13 H3 {
   font-size: 24px;
   text-align: left;
 }
 #msg-box5-13 P {
   text-align: left;
+  color: #000000;
 }
 #msg-box5-v H3 {
   font-size: 24px;
@@ -994,6 +1002,7 @@ h6,
 #msg-box5-2 H3 {
   color: #000000;
   font-size: 24px;
+  text-align: left;
 }
 #msg-box5-2 P {
   text-align: left;
@@ -1007,17 +1016,36 @@ h6,
 #msg-box5-t P {
   text-align: left;
 }
-#msg-box5-u H3 {
+#msg-box5-1c H3 {
   font-size: 24px;
+  text-align: left;
 }
-#msg-box5-u SPAN {
-  font-size: 17px;
+#msg-box5-1c P {
+  text-align: left;
 }
 #msg-box5-17 H3 {
-  font-size: 32px;
+  font-size: 24px;
+  text-align: left;
 }
 #msg-box5-17 SPAN {
   text-align: right;
+}
+#msg-box5-17 P {
+  text-align: left;
+}
+#msg-box5-1a H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-1a P {
+  text-align: left;
+}
+#msg-box5-1b H3 {
+  font-size: 24px;
+  text-align: left;
+}
+#msg-box5-1b P {
+  text-align: left;
 }
 #header3-18 .mbr-section-title,
 #header3-18 .mbr-section-subtitle {

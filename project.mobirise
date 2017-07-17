@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 49,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -95,7 +95,7 @@
               "size": 250
             }
           },
-          "title": "Установки смешения",
+          "title": "Установки смешения.<br>Пищевые &nbsp;смесители",
           "text": "<b>РАЗРАБОТКА, ПРОИЗВОДСТВО, ПРОДАЖА</b>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -524,12 +524,28 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/7229-dsc0027-2000x1333.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3938-dsc-1-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayOpacity": "0.4",
+                "overlayColor": "#2969b0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "<br><br><br><br><br><br><br><br><br>Смеситель ленточный&nbsp;<br>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/5180-sc-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
                 "overlayColor": "#2969b0",
                 "contentAlign": "center",
                 "showTitle": false,
@@ -872,15 +888,15 @@
               "text-align": "left"
             }
           },
-          "_anchor": "msg-box5-13",
+          "_anchor": "msg-box5-19",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -889,16 +905,16 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/7049-dsc0021-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-boschka-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -927,6 +943,69 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
+              "font-size": "24px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "msg-box5-13",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/smes-lop-1400x760.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Лопастной смеситель",
+          "text": "В лопастных смесителях сыпучие пищевые продукты перемешиваются лопастями, закрепленными, как правило, на горизонтальном валу. Эти смесители бывают непрерывного и периодического действия.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Обзор</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
               "font-size": "24px"
             }
           },
@@ -938,7 +1017,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -956,7 +1035,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5848-dsc-1400x932.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-barab-01-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -986,7 +1065,8 @@
           "_styles": {
             "H3": {
               "color": "#000000",
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "left"
             },
             "P": {
               "text-align": "left"
@@ -1000,7 +1080,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#90a878",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1018,7 +1098,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2042-s6302785-len-smes-1400x1051.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-lent-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1036,8 +1116,8 @@
               "size": 0
             }
           },
-          "title": "Смеситель ленточный с шнековой выгрузкой",
-          "text": "При перемещении внутри барабана материал встречает на своем пути лопасти, укрепленные внутри бункера смесителя , поднимаясь на определенную высоту, продукт пересыпается сверху вниз барабана ..",
+          "title": "Смеситель ленточный&nbsp;",
+          "text": "Ленточный смеситель предназначен для смешивания сыпучих материалов, а также сыпучих с небольшим количеством жидких компонентов при условии получения готового материала в виде сыпучей массы.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1058,7 +1138,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1076,7 +1156,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2227-dsc-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-dvyxkon-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1119,7 +1199,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#90a878",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1137,7 +1217,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6666-dsc0053-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-dvuxrot-700-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1166,13 +1246,14 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "left"
             },
-            "SPAN": {
-              "font-size": "17px"
+            "P": {
+              "text-align": "left"
             }
           },
-          "_anchor": "msg-box5-u",
+          "_anchor": "msg-box5-1c",
           "_params": {
             "imageSize": 50,
             "paddingTop": 0,
@@ -1180,7 +1261,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1191,14 +1272,14 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3938-dsc-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-boschka-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1216,9 +1297,9 @@
               "size": 0
             }
           },
-          "title": "Ленточный смеситель с шнековой выгрузкой<br><br><span style=\"font-weight: normal;\">Ленточный смеситель предназначен для смешивания сыпучих материалов, а также сыпучих с небольшим количеством жидких компонентов при условии получения готового материала в виде сыпучей массы.</span>",
-          "text": "S",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>"
+          "title": "Смеситель \"пьяная бочка\"",
+          "text": "Смеситель «Пьяная бочка» периодического действия предназначен для тщательного смешивания с сохранением структуры сыпучих продуктов при относительно небольшом расходе энергии и малом времени смешивания. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Обзор</a>"
         },
         {
           "_tags": [
@@ -1227,10 +1308,14 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "32px"
+              "font-size": "24px",
+              "text-align": "left"
             },
             "SPAN": {
               "text-align": "right"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-17",
@@ -1241,7 +1326,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1259,7 +1344,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/s63-1400x787.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-syx-700-obzor-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1278,8 +1363,132 @@
             }
           },
           "title": "Смеситель сухих материалов",
-          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">Вакуумный миксер-гомогенизатор выполняет сразу несколько технологических процессов: вакуумирование, перемешивание, гомогенизацию, нагрев и охлаждение.&nbsp;</span>.",
+          "text": "Смесители для сыпучих компонентов предназначены для приготовления всевозможных многокомпонентных сыпучих смесей,.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-1a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/smes-boschka-1400x760.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Пальчиковый смеситель&nbsp;",
+          "text": "Пальчиковый смеситель предназначен для приготовления всевозможных высокооднородных многокомпонентных смесей, в производствах, технологии которых содержат жесткие требования к однородности смешиваемых компонентов (до 98%). ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Обзор</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-1b",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/smes-boschka-1400x760.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "&nbsp;Смеситель плугообразный",
+          "text": "Плугообразный смеситель позволяет единовременно смешивать достаточно большие объемы сухих компоненнов, которые при внесении жидкой фазы подвержены комкованию и налипанию на рабочие органы.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Обзор</a>"
         },
         {
           "_styles": {
@@ -1502,7 +1711,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/7417-dsc0001-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3938-dsc-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
