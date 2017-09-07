@@ -1478,7 +1478,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/smes-boschka-1400x760.jpg",
+              "src": "@PROJECT_PATH@/assets/images/700-388-smes-plug-1400x676.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1968,7 +1968,7 @@
           "title": "Обратная связь",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
-            "action": "agregats@yandex.ru",
+            "action": "zakaz@agromash-region.ru",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -2020,7 +2020,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Aдрес: &nbsp;г. Чебоксары пр. Машиностроителей, &nbsp;1</strong><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты:</b></span></font><br>\nEmail: agromash-cheb@mail.ru<br>www.AGROMASH-CHEB.RU<br>\nPhone:&nbsp;<br>8-800-707-78-55 <br>(бесплатно)<br>",
+          "text1": "<strong>Aдрес: &nbsp;г. Чебоксары пр. Машиностроителей, &nbsp;1</strong><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты:</b></span></font><br>E-mail: zakaz@agromash-region.ru&nbsp;<br><br>\nPhone:&nbsp;<br>8-800-707-78-55 <br>(бесплатно)<br>",
           "text2": "<ul><br><br><br></ul>"
         },
         {
