@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -254,14 +254,14 @@
             "size": "830x360",
             "slides": [
               {
-                "src": "file:///C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81/AppData/Local/Mobirise.com/Mobirise/projectData/700-388-gomog-vid-prod-1-2000x965.jpg",
-                "active": true,
+                "src": "@PROJECT_PATH@/assets/images/gomog_obz-2000x1085.jpg",
+                "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/700-388-gomog-vid-prod-700x338.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gomog-obz-700x338.jpg",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/700-388-gomog-vid-prod-1-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/gomog-obz-85x48.png"
               },
               {
                 "src": "file:///C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81/AppData/Local/Mobirise.com/Mobirise/projectData/700-388-nasos-pisch-2000x965.jpg",
@@ -284,14 +284,14 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/700-388-jirot-obz-prod-85x48.png"
               },
               {
-                "src": "file:///C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81/AppData/Local/Mobirise.com/Mobirise/projectData/700-388-gomog-vid-prod-1-2000x965.jpg",
+                "src": "@PROJECT_PATH@/assets/images/380-vak-vup-2000x1085.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/700-388-gomog-vid-prod-700x338.jpg",
+                "image": "@PROJECT_PATH@/assets/images/380-vak-vup-700x338.jpg",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/700-388-gomog-vid-prod-1-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/380-vak-vup-85x48.png"
               },
               {
                 "src": "file:///C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81/AppData/Local/Mobirise.com/Mobirise/projectData/700-388-var-kotel-par-prod-2000x965.jpg",
@@ -304,14 +304,24 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/700-388-var-kotel-par-prod-85x48.png"
               },
               {
-                "src": "file:///C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81/AppData/Local/Mobirise.com/Mobirise/projectData/700-388-smes-barab-2000x965.jpg",
+                "src": "@PROJECT_PATH@/assets/images/pish-obor-380-obz-2000x1085.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/700-388-smes-barab-700x338.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pish-obor-380-obz-700x338.jpg",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/700-388-smes-barab-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/pish-obor-380-obz-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/var-kot-kafe-2000x1085.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/var-kot-kafe-700x338.jpg",
+                "title": "title 1",
+                "text": "text 1",
+                "tooltip": "@PROJECT_PATH@/assets/images/var-kot-kafe-85x48.png"
               }
             ],
             "theme": "boundary",
@@ -914,7 +924,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/smes-boschka-1400x760.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ust-smesh-380-obzor-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -977,7 +987,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/smes-lop-1400x760.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smes-lop-1-1400x760.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1055,7 +1065,7 @@
           },
           "title": "Барабанный смеситель",
           "text": "При перемещении внутри барабана материал встречает на своем пути лопасти, укрепленные внутри бункера смесителя , поднимаясь на определенную высоту, продукт пересыпается сверху вниз барабана .",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.agro-mash.ru/smesitel-barabannyi.html\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>"
         },
         {
           "_tags": [
@@ -1783,6 +1793,150 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smes-150x240.jpg",
+                    "link": "index.html",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smes-1-150x240.jpg",
+                    "link": "index.html",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smes-2-150x240.jpg",
+                    "link": "index.html",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smes-3-150x240.jpg",
+                    "link": "index.html",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smes-4-150x240.jpg",
+                    "link": "index.html",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smes-5-150x240.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/esk-7-150x240.jpg",
+                    "link": "index.html",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smes-6-150x240.jpg",
+                    "link": "index.html",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": false
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying-11.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showBullets": true,
+            "visibleSlides": "5",
+            "showArrows": true
+          },
+          "_anchor": "extTestimonials5-1d",
+          "title": "Варианты выпускаемых установок смешения",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients."
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1960,7 +2114,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/400-160-fil-chebok-409x128.png",
+              "src": "@PROJECT_PATH@/assets/images/400-160-fil-chebok-1-409x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
